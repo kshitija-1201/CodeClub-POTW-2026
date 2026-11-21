@@ -1,4 +1,4 @@
-# CodeClub-POTW-2026
+﻿# CodeClub-POTW-2026
 
 My Java solutions to weekly Code Club Problem of the Week challenges.
 
@@ -9,7 +9,9 @@ This repository contains my Java solutions, organised week-wise and level-wise. 
 ## Progress Tracker
 
 - **Week 01:** 6/6 Problems Completed ✓
-- **Overall Progress:** 6 Problems Completed
+- **Week 02:** 4/6 Problems Solved (Upload Pending)
+- **Week 03:** 2/6 Problems Completed ✓
+- **Overall Progress:** 12 Problems Solved
 - **Status:** In Progress
 
 ## Language
